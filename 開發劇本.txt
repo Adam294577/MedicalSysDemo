@@ -3,3 +3,6 @@
 2. 能夠RWD 實現在任何螢幕裝置觀看
 3. 利用vue3的概念開發 切分各組件內容
 4. 系統均要呈現在一個頁面 不能跨頁
+
+demo:
+https://www.figma.com/file/7qZqzZqJF3wUjj7eGwfoud/Untitled?type=design&node-id=1-3297&mode=design&t=ziuWf2YOB7TrFuve-0

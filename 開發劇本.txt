@@ -1,8 +1,8 @@
 需求
-1. 製作一個 1920 x 1020 的 看診系統
-2. 能夠RWD 實現在任何螢幕裝置觀看
+1. 製作一個 螢幕滿版的看診系統
+2. RWD(?)
 3. 利用vue3的概念開發 切分各組件內容
-4. 系統均要呈現在一個頁面 不能跨頁
+4. 系統均要呈現在一個頁面 不能跨頁 (index.vue)
 
 demo:
 https://www.figma.com/file/7qZqzZqJF3wUjj7eGwfoud/Untitled?type=design&node-id=1-3297&mode=design&t=ziuWf2YOB7TrFuve-0

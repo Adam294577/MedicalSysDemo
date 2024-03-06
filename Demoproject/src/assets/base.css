@@ -1,5 +1,8 @@
 body {
   font-family: Noto Sans SC;
+  --sb-track-color: rgba(217, 217, 217, 0.5);
+  --sb-thumb-color: #8c8c8c;
+  --sb-size: 11px;
 }
 body::-webkit-scrollbar {
   width: 0;

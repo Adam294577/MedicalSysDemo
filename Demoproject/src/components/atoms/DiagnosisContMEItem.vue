@@ -82,14 +82,13 @@ const BlueDemoData = reactive({
       class="inline-block h-full w-[305px] text-center border-r-[1px] border-[#BFBFBF] leading-[42px]"
     >
       <!-- PharmacopoeiaNote  -->
-      <div class="h-full flex justify-center items-center">
+      <div class="h-full flex justify-center items-cente bg-[#e0f3de]">
         <input
           class="bg-[#F8FDFF] w-[293px] h-[38px] rounded-[2px] border-[1px] border-[#096DD9] px-[6px] py-[5px] text-[#434343] text-[22px] font-medium"
           type="text"
           value=""
         />
       </div>
-      <!-- PharmacopoeiaNoteWithTagIcon  -->
     </span>
     <span
       class="inline-block h-full w-[90px] text-center border-r-[1px] border-[#BFBFBF] leading-[42px]"
@@ -251,7 +250,7 @@ const BlueDemoData = reactive({
       class="inline-block h-full w-[305px] text-center border-r-[1px] border-[#BFBFBF] leading-[42px]"
     >
       <!-- PharmacopoeiaNoteWithTagIcon  -->
-      <div class="h-full flex justify-center items-center">
+      <div class="h-full flex justify-center items-center bg-[#deedf3]">
         <!-- TagIcon -->
         <SvgIcon class="w-[28px] h-[28px] relative -left-1" name="TagIcon" />
         <input
